@@ -51,4 +51,13 @@ node ./Plugins/Plugin/JavaScript/index.js
 python3 ./Plugins/Plugin/Python/main.py
 ```
 
+```
+Current Commands in the Console:
+ - stop
+ - restart
+```
+
+Last Upload: 01.03.2021 at 15:04 CET
+Last Uploader: Hanyaku
+
 Happy Hosting!
