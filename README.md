@@ -57,7 +57,9 @@ Current Commands for the Console:
  - restart
 ```
 
-Last Upload: 01.03.2021 at 15:04 CET
+```bash
+Last Upload: 01.03.2021 at 15:06 CET
 Last Uploader: Hanyaku
+```
 
 Happy Hosting!
