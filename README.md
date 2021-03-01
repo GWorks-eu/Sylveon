@@ -51,8 +51,8 @@ node ./Plugins/Plugin/JavaScript/index.js
 python3 ./Plugins/Plugin/Python/main.py
 ```
 
+Current Commands for the Console:
 ```
-Current Commands in the Console:
  - stop
  - restart
 ```
