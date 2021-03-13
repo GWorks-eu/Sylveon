@@ -1,3 +1,5 @@
+# This Project is currently paused. We are currently not working on Sylveon.
+
 # Sylveon
 Sylveon is a Server to run Node.JS Scripts. This has been tested with Discord.js
 
