@@ -1,4 +1,4 @@
-# This Project is currently paused. We are currently not working on Sylveon.
+# This Project is not going to be continued. We stopped the development of Sylveon
 
 # Sylveon
 Sylveon is a Server to run Node.JS Scripts. This has been tested with Discord.js
